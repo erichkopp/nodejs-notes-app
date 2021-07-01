@@ -1,1 +1,1 @@
-![screenshot](node-notes-app.png)
+![screenshot](notes-app.png)
