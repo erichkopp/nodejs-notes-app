@@ -1,6 +1,6 @@
 <h1>NodeJS Notes App</h1>
 
-A command line note taking app. Will create a local JSON file to store notes. See screenshot for commands. 
+A command line note taking app. Will create a local JSON file to store notes. See screenshot or use --help for commands. 
 
 Required arguments include --title and --body depending on the command run.
 
